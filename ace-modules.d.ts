@@ -203,6 +203,7 @@ declare module 'ace-builds/src-noconflict/theme-clouds';
 declare module 'ace-builds/src-noconflict/theme-clouds_midnight';
 declare module 'ace-builds/src-noconflict/theme-cobalt';
 declare module 'ace-builds/src-noconflict/theme-crimson_editor';
+declare module 'ace-builds/src-noconflict/theme-custom';
 declare module 'ace-builds/src-noconflict/theme-dawn';
 declare module 'ace-builds/src-noconflict/theme-dracula';
 declare module 'ace-builds/src-noconflict/theme-dreamweaver';
